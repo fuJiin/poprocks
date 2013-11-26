@@ -1,3 +1,6 @@
-Pop Rocks color scheme for Sublime Text 2 / TextMate
+Pop Rocks color scheme for Sublime Text / Textmate & Emacs
 
-Based off settings in Cobalt theme, colors inspired by hardcore's iTerm colors ([link](https://github.com/hardcore/iTerm-colors))
+Colors inspired by Hardcore's [iTerm colors](https://github.com/hardcore/iTerm-colors)
+
+Sublime Text package based of settings in Cobalt.
+Emacs theme based off Cyberpunk from [Emacs Live](https://github.com/overtone/emacs-live)
